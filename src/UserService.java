@@ -1,6 +1,7 @@
 public class UserService {
     public String getUser() {
-        return "Main branch version";
+        return "Resolved: main + feature";
     }
 }
+
 
