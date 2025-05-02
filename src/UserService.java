@@ -1,5 +1,6 @@
 public class UserService {
     public String getUser() {
-        return "Original User";
+        return "Main branch version";
     }
 }
+
